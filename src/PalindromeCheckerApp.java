@@ -1,4 +1,5 @@
 public class PalindromeCheckerApp {
+<<<<<<< HEAD
 
     public static void main(String[] args) {
 
@@ -6,3 +7,6 @@ public class PalindromeCheckerApp {
 
     }
 }
+=======
+}
+>>>>>>> e6fbec795766c986d449db77fe3a2a70cc54f27d
